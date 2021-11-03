@@ -1,2 +1,2 @@
 # data-structures
-data structures project
+data structures projects
