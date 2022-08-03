@@ -9,7 +9,7 @@ import java.util.SortedSet;
 /**
  * Program for a word search game.
  *
- * @author CHRISTINA LIU (czl0144@auburn.edu)
+ * @author CHRISTINA L (czl0144@auburn.edu)
  * @version 2/19/2021
  */
  
