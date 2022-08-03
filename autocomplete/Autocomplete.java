@@ -4,7 +4,7 @@ import java.util.Arrays;
  * Program to provide complete autocomplete functionality for a
  * given set of strings and weights.
  *
- * @author Christina Liu
+ * @author Christina L
  * @version 2/6/2021
  */
 
