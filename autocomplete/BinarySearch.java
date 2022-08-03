@@ -3,7 +3,7 @@ import java.util.Comparator;
 /*
  * Binary search methods to find the first and last key.
  *
- * @author Christina Liu
+ * @author Christina L
  * @version 2/6/2021
  */
 
