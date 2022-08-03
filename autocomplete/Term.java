@@ -5,7 +5,7 @@ import java.util.Comparator;
  * descending order of weight, lexicographic using the first length
  * characters of the query string).
  *
- * @author Christina Liu
+ * @author Christina L
  * @version 2/6/2021
  */
 
