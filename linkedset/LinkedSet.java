@@ -10,7 +10,7 @@ import java.util.NoSuchElementException;
  * efficiency.
  *
  * @author Dean Hendrix (dh@auburn.edu)
- * @author Christina Liu (czl0144@auburn.edu)
+ * @author Christina L (czl0144@auburn.edu)
  *
  */
 public class LinkedSet<T extends Comparable<T>> implements Set<T> {
