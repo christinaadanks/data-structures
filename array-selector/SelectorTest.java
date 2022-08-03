@@ -4,7 +4,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 /**
- * @author Christinaa Danks
+ * @author Christina L
  * @version 1/22/2021
  */
  
